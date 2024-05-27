@@ -1,6 +1,6 @@
-# Docker-practice
+# Docker-question 
 
-#docker practice question 
+#docker question creating python docker image 
 
 #pushing the Docker image in github
 

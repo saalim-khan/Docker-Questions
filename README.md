@@ -40,3 +40,14 @@ reversed = str[::-1]
 
 print(reversed)
 
+Questions
+Basic Questions
+Create a Dockerfile for a simple Node.js application.
+
+Instructions:
+Use the official Node.js image as the base image.
+Copy the application code into the image.
+Install dependencies.
+Set the default command to run the application.
+Example Application: A simple app.js that listens on port 3000 and returns "Hello, World!".
+

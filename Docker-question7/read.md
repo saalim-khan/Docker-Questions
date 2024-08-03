@@ -8,5 +8,5 @@
 
 
 <h3>docker run -p 5000:5000 flask-app</h3>
-Access the application:
-Open your web browser and go to http://localhost:5000. You should see "Hello, World!".</h2>
+<h2>Access the application:</h2>
+<h3>Open your web browser and go to http://localhost:5000. You should see "Hello, World!".</h3>

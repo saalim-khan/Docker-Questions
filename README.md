@@ -39,14 +39,14 @@ reversed = str[::-1]
 #print reversed string
 
 print(reversed)
-==================================================
-Questions
 
+Questions
+==================================================
 
 Basic Questions
 
 Create a Dockerfile for a simple Node.js application.
-
+=====================================================
 Instructions:
 
 Use the official Node.js image as the base image.
@@ -59,3 +59,19 @@ Set the default command to run the application.
 
 Example Application: A simple app.js that listens on port 3000 and returns "Hello, World!".
 
+
+Write a Dockerfile to containerize a Python Flask application.
+==================================================
+Instructions:
+
+Use the official Python image.
+
+Copy the Flask application into the image.
+
+Install dependencies listed in requirements.txt.
+
+Expose the port the Flask app runs on.
+
+Set the default command to run the Flask application.
+
+Example Application: A basic app.py that defines a simple Flask route.

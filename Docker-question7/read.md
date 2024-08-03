@@ -2,11 +2,11 @@
 <h2>Build the Docker image:</h2>
 
 
-docker build -t flask-app .
-Run the Docker container:
+<h3>docker build -t flask-app .</h3>
 
-bash
-Copy code
-docker run -p 5000:5000 flask-app
+<h2>Run the Docker container:</h2>
+
+
+<h3>docker run -p 5000:5000 flask-app</h3>
 Access the application:
-Open your web browser and go to http://localhost:5000. You should see "Hello, World!".
+Open your web browser and go to http://localhost:5000. You should see "Hello, World!".</h2>

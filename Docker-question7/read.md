@@ -1,8 +1,7 @@
-Steps to Build and Run the Docker Image
-Build the Docker image:
+<h1>Steps to Build and Run the Docker Image</h1>
+<h2>Build the Docker image:</h2>
 
-bash
-Copy code
+
 docker build -t flask-app .
 Run the Docker container:
 

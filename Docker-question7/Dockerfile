@@ -10,3 +10,12 @@ COPY requirements.txt ./
 # Install the dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
+
+# Copy the application code into the image
+COPY . .
+
+# Expose the port the Flask app runs on
+EXPOSE 5000
+
+# Set the default command to run the Flask application
+CMD ["python", "app.py"]

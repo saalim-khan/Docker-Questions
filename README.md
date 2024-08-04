@@ -75,3 +75,12 @@ Expose the port the Flask app runs on.
 Set the default command to run the Flask application.
 
 Example Application: A basic app.py that defines a simple Flask route.
+
+
+
+Intermediate Questions
+
+Create a multi-stage Dockerfile for a Go application to reduce the final image size.
+===================================================================================
+
+

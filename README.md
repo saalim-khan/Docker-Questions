@@ -93,4 +93,7 @@ Use a lightweight base image for the final stage.
 
 Copy the built application from the builder stage to the final stage.
 
+            ▪ Set the default command to run the application.
+        ◦ Example Application: A simple Go application that listens on port 8080.
+
 

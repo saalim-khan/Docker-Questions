@@ -83,4 +83,10 @@ Intermediate Questions
 Create a multi-stage Dockerfile for a Go application to reduce the final image size.
 ===================================================================================
 
+Instructions:
+Use the official Go image as the builder stage.
+Build the Go application in the builder stage.
+Use a lightweight base image for the final stage.
+Copy the built application from the builder stage to the final stage.
+
 

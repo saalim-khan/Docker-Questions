@@ -100,10 +100,10 @@ Example Application: A simple Go application that listens on port 8080.
 
 Write a Dockerfile for a React application, including the build process.
 =======================================================================
-        ◦ Instructions:
-            ▪ Use the official Node.js image.
-            ▪ Copy the application code into the image.
-            ▪ Install dependencies and build the application.
-            ▪ Serve the static files using a lightweight web server, such as Nginx.
-            ▪ Use multi-stage builds to keep the final image size small.
-        ◦ Example Application: A basic Create React App.
+Instructions:
+Use the official Node.js image.
+Copy the application code into the image.
+Install dependencies and build the application.
+Serve the static files using a lightweight web server, such as Nginx.
+Use multi-stage builds to keep the final image size small.
+Example Application: A basic Create React App.

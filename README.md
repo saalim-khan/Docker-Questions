@@ -97,7 +97,9 @@ Set the default command to run the application.
 
 Example Application: A simple Go application that listens on port 8080.
 
-    4. Write a Dockerfile for a React application, including the build process.
+
+Write a Dockerfile for a React application, including the build process.
+=======================================================================
         ◦ Instructions:
             ▪ Use the official Node.js image.
             ▪ Copy the application code into the image.
